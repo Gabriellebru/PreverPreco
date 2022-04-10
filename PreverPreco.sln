@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreverPreco", "PreverPreco\PreverPreco.csproj", "{0AC92F5B-44D9-4F4D-97C8-2E1357269625}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrevisaoDePrecos_Console", "PrevisaoDePrecos_Console\PrevisaoDePrecos_Console.csproj", "{E200C8D4-52EE-4228-B675-754912C03AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC92F5B-44D9-4F4D-97C8-2E1357269625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC92F5B-44D9-4F4D-97C8-2E1357269625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC92F5B-44D9-4F4D-97C8-2E1357269625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC92F5B-44D9-4F4D-97C8-2E1357269625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E200C8D4-52EE-4228-B675-754912C03AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E200C8D4-52EE-4228-B675-754912C03AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E200C8D4-52EE-4228-B675-754912C03AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E200C8D4-52EE-4228-B675-754912C03AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A09FD55-575C-4EE1-ACAC-6789F2F064FD}
+	EndGlobalSection
+EndGlobal
